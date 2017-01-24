@@ -1,8 +1,21 @@
 ![banner](https://i.imgur.com/f6FcrhT.png)
 
+## WE BECOME WHAT WE BEHOLD - 我們會成為我們所見
+這是一個探討新聞循環、惡性循環、無限輪迴的遊戲 <br>
 *a game about news cycles, vicious cycles, infinite cycles*
 
-**[PLAY ON ITCH.IO](https://ncase.itch.io/wbwwb)**
+可由此遊玩英文版本 **[PLAY ON ITCH.IO](https://ncase.itch.io/wbwwb)**
+
+---
+###這個遊戲使用了許多開放資源，也將回饋於開放文化
+
+原作者公開了所有程式碼及美術資源，並同意任何人重製這款遊戲，不需要特別的允許。
+
+不過因為遊戲同時也使用他人的開放資源，重製時也請注意相關資源的授權方式。
+
+這裡是原作者 ncase 的 Github - [https://github.com/ncase/wbwwb](https://github.com/ncase/wbwwb)
+
+*以下附上原作者的授權原文，本翻譯版本只有修改表現文字，並完全沿用原作之授權方式。*
 
 ---
 
