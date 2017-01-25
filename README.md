@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/f6FcrhT.png)
 
-## WE BECOME WHAT WE BEHOLD - 我們的所見將造就我們
+## WE BECOME WHAT WE BEHOLD - 我們的所見會塑造我們
 這是一個探討新聞循環、惡性循環、無限輪迴的遊戲 <br>
 *a game about news cycles, vicious cycles, infinite cycles*
 
