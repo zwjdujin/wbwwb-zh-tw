@@ -212,7 +212,7 @@ var textStrings_ZH_TW = {
     // Act 1
     "niceHat"              : "嗯哼 很棒的帽子"                                          ,
     "outtaHere"            : "沒錯，掌握住那裡的失控"                                ,
-    "getARoom"             : "噁心，去房間裡恩愛吧"                                  ,
+    "getARoom"             : "噁，何不在房間裡恩愛？"                                  ,
     "notCoolAnymore"       : "這頂帽子已經不再酷炫"                          ,
     "tvOnTv"               : "一台上了電視的...電視！"                                    ,
     "cricky"               : "小蟋蟀 <3"                                        ,
@@ -248,7 +248,7 @@ var textStrings_ZH_TW = {
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "會想看 *只是一群人聚在一起* ?",
+       "誰會想看 *這些人的互動* ?",
        "和平只帶來無趣. 暴力則有助散播."    ,
        //"peace is boring. conflict gets clicks." ,
        "每個故事都需要一點衝突, 所以..."  ,
@@ -276,10 +276,10 @@ var textStrings_ZH_TW = {
     "manyThanks"         : "對許多遊戲測試者的感謝:" ,
 
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "and to my patreon supporters:" ,
+    "patreonSupporters"  : "以及我的贊助支持者們:" ,
 
     // (credits0007.png)
-    "lastButNotLeast"    : "最後但不是全部," ,
+    "lastButNotLeast"    : "最後，但不僅於此," ,
 
     // (credits0008.png)
     "thankYouForPlaying" : "感謝你的遊玩！" ,
@@ -301,13 +301,13 @@ var textStrings_ZH_TW = {
 
     // (quote0002.png)
     "WBWWB"              : "我們的所見會塑造我們." ,
-    "WSOTATOTSU"         : "我們形塑了我們的工具，然後工具再塑造我們." ,
+    "WSOTATOTSU"         : "我們塑造了我們的工具，然後工具再塑造我們." ,
 
     // (quote0003.png)
     "MarshallMcLuhan"    : "Marshall McLuhan" ,
 
     // (quote0004.png)
-    "misatrributed"      : "(misattributed)" ,
+    "misatrributed"      : "(不可考)" ,
 };
 
 var textStrings = textStrings_ZH_TW
