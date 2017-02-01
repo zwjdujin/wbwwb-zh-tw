@@ -4,7 +4,8 @@
 這是一個探討新聞循環、惡性循環、無限輪迴的遊戲 <br>
 *a game about news cycles, vicious cycles, infinite cycles*
 
-可由此遊玩英文版本 **[PLAY ON ITCH.IO](https://ncase.itch.io/wbwwb)**
+由此遊玩繁中翻譯版 **[PLAY ON ITCH.IO](https://douduck08.itch.io/wbwwb-zh)**
+由此遊玩英文原版 **[PLAY ON ITCH.IO](https://ncase.itch.io/wbwwb)**
 
 ---
 ###這個遊戲使用了許多開放資源，也將回饋於開放文化
